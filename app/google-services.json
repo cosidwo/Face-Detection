@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087853578526",
+    "project_id": "facedetection-36ba7",
+    "storage_bucket": "facedetection-36ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087853578526:android:6d9692754f5e692d85a10f",
+        "android_client_info": {
+          "package_name": "pl.cosidwo.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087853578526-pg4tgh7n27dn00c2un64tuba6mlfmurb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcP9ZbrKxJfIJB0NprjjSaFT8vHoAj4Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087853578526-pg4tgh7n27dn00c2un64tuba6mlfmurb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
