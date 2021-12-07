@@ -28,5 +28,5 @@ FaceDetection is an Android app which allows users to detect faces from images. 
 ## Installation 
 Clone this repository and import into Android Studio
 ```
-git clone https://github.com/cosidwo/FaceDetection.git
+git clone https://github.com/cosidwo/Face-Detection.git
 ```
